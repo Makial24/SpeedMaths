@@ -1,4 +1,4 @@
-# ztm-template
+# SpeedMaths
 
 ## Build Setup
 
