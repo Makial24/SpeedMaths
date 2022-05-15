@@ -1,6 +1,7 @@
 <template>
 <div>
   <div id="header" class="md:pl-40 pl-10 pr-20 py-5">
+    <title>The Premier Abacus Academy in Malaysia</title>
     <div id="menu" class="grid grid-cols-2">
       <div id="left">
         <img src="logo1.png" class="w-[90px]" alt="">
