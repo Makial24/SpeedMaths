@@ -66,10 +66,7 @@
         </div>
       </div>
       <div class="col-span-4">
-        <h2 class="text-2xl font-oswald pt-5">016-268 7192</h2>
-      </div>
-      <div class="col-span-6 pl-20">
-        <a href="https://www.facebook.com/petterrayen.gnanapragasam"><img src="facebook2.png" alt=""></a>
+        <h2 class="text-2xl font-oswald pt-5">016-206 0180</h2>
       </div>
     </div>
   </div>
